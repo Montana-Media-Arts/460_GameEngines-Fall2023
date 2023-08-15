@@ -1,0 +1,12 @@
+title: Game Engines, MART 460
+title-short: Game Engines
+description: A course to teach game design and programming using a game engine.
+institution: University of Montana, School of Media Arts
+institution-short: Media Arts | Montana
+
+infoModules: [syllabus, instructors, help]
+
+
+modules: [week-1, week-2, week-3, week-4, week-5, week-6, week-7, week-8, week-9, week-10, week-11, week-12]
+# modules: [week-1, week-2, week-3, week-4, week-5, week-6, week-7, week-8, week-9, week-10, week-11, week-12, week-13, final-project]
+# modules: [week-1, week-2, week-3, week-4, week-5, week-6, week-7, week-8, week-9, week-10, week-11, week-12, final-info]
