@@ -14,14 +14,14 @@ module: 1
 </div>
 
 <div id="Overview" class="tabcontent" style="display:block">
-<p>In this session we are going to start on our online journey talking about Unity and Stenycl.  Unity is a Game Engine that allows us to create any game we want. However, we are going to stick to the basics first, explore Stencyl and use built-in tools so we can focus on design and avoid some of the complexity as of now.</p>
+<p>In this session we are going to start on our online journey talking about Unity and GDevelop.  Unity is a Game Engine that allows us to create any game we want. However, we are going to stick to the basics first, explore GDevelop and use built-in tools so we can focus on design and avoid some of the complexity as of now.</p>
 </div>
 
 <div id="Objectives" class="tabcontent">
 <p>At the conclusion of this week, students should:</p>
 <ul>
 <li>Ensure that a GitHub account repository has been created.</li>
-<li>Be introduced to Stencyl and the Unity Game Engine.</li>
+<li>Be introduced to GDevelop and the Unity Game Engine.</li>
 <li>Add the Unity Playground.</li>
 </ul>
 </div>
