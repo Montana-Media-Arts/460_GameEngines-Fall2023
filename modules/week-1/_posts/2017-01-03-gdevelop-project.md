@@ -3,7 +3,7 @@ title: GDevelop Project
 module: 1
 ---
 
-# Stencyl
+# GDevelop
 
 <div class="tab">
   <button class="tablinks active" onclick="openTab(event, 'Create')">Create</button>
