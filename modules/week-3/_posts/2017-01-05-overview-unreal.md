@@ -1,5 +1,5 @@
 ---
-title: Weekly Overview
+title: Overview of Unreal
 module: 3
 ---
 
@@ -8,12 +8,4 @@ module: 3
 
 <br />
 
-This week we will start on Unreal Engine 5.x. We will work our way through the following intro with instruction and give ourselves a chance to get familar with the environment and create a level.
-
-Unreal Beginner Course
-
-https://www.youtube.com/watch?v=k-zMkzmduqI
-
-Unreal 5.3 Beginner Course and Overview
-
-https://www.youtube.com/watch?v=td0rVkL1LVE
+This week we will start on Unreal Engine 5.x. We will use the built-in templates to create a level.
