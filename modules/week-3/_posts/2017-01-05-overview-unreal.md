@@ -8,4 +8,8 @@ module: 3
 
 <br />
 
-This week we will start on Unreal Engine 5.x. We will use the built-in templates to create a level.
+This week we will start on Unreal Engine 5.x. We will use the built-in templates to create a level and Pixel Bridge to integrate assets.
+
+
+
+
