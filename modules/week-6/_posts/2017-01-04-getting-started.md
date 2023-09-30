@@ -1,13 +1,13 @@
 ---
-title: Getting Started
+title: Getting Started with Animations
 module: 6
 jotted: true
 ---
 
 # Get Started
 
-1. Create a new 2D Project
+1. Find a Sprite Sheet
 
-2. Import a TileMap
+2. Separate the sprites
 
-3. This can come from the store or Sunny Land or some other free asset on the Unity Store.
+3. Create an animation or create a flipbook.
