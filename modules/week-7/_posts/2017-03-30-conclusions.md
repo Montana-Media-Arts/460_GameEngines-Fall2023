@@ -6,4 +6,4 @@ jotted: false
 
 # Weekly Conclusions
 
-This week was all about adding to an existing project by create a scene using the tilemap, adding collectibles, and enemies.  
+This week was all about adding to an existing project by creating a UI elements.
